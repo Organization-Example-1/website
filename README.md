@@ -2,6 +2,4 @@
 
 First of many hopefully
 
-Editing on update-readme branch
-
-Updated locally
+Updates made on Github before Rebase
